@@ -49,8 +49,7 @@ Much of my recent work is on RAG and agentic systems. I build evaluation pipelin
 ### Publications
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/graph-learning-dark.png">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/graph-learning-light.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/graph-learning-dark.png">
   <source media="(prefers-color-scheme: dark)" srcset="assets/graph-learning-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="assets/graph-learning-light.gif">
   <img alt="Illustrative neuroimaging workflow: connectivity matrix entries map to brain graph edges, neighboring regions exchange messages, then subject groups rotate through held-out evaluation folds." src="assets/graph-learning-light.gif" width="100%">
